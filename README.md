@@ -1,5 +1,7 @@
 #### Idea
 
+see live https://react-accordion-seven.vercel.app/
+
 [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
 
 ![](./idea.png);
